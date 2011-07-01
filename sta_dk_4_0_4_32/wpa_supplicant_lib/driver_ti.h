@@ -32,7 +32,7 @@
 #include "tiioctl.h"
 #include "shlist.h"
 /*-------------------------------------------------------------------*/
-#define TIWLAN_DRV_NAME         "tiwlan0"
+#define TIWLAN_DRV_NAME         "wlan0"
 #define TKIP_KEY_LENGTH         32
 #define AES_KEY_LENGTH          16
 #define WEP_KEY_LENGTH_40       5
